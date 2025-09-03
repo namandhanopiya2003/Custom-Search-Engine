@@ -41,7 +41,7 @@ CustomSearchEngine/<br>
 ├── test_files/<br>
 │   ├── sample  1.txt         # Sample document used for search testing and indexing<br>
 │   ├── sample  2.txt         # Another sample file for broader keyword coverage<br>
-│   │   ...
+│   │   ...<br>
 │   └── sample 25.txt         # Up to 25 documents supported; can add more for large-scale testing<br>
 │<br>
 └── README.txt                # Project summary, usage instructions.
@@ -94,3 +94,4 @@ For questions or feedback, feel free to reach out!
 
 
 ---
+

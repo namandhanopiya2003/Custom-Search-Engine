@@ -28,22 +28,22 @@
 
 ## 📁 PROJECT FOLDER STRUCTURE ==>
 
-CustomSearchEngine/
-├── src/
-│   ├── main.cpp              # Main entry point; handles input, initializes engine, and shows results
-│   ├── file_parser.cpp       # Logic to read and parse text files into line-wise structure
-│   ├── file_parser.h         # Header for file parser; defines classes and functions used in parsing
-│   ├── indexer.cpp           # Builds inverted index: maps words to file, line, and frequency
-│   ├── indexer.h             # Header for indexer; defines data structures and methods for indexing
-│   ├── search_engine.cpp     # Implements search logic, fuzzy matching, and result ranking
-│   └── search_engine.h       # Header for search engine; declares fuzzy search and scoring functions
-│
-├── test_files/
-│   ├── sample  1.txt         # Sample document used for search testing and indexing
-│   ├── sample  2.txt         # Another sample file for broader keyword coverage
+CustomSearchEngine/<br>
+├── src/<br>
+│   ├── main.cpp              # Main entry point; handles input, initializes engine, and shows results<br>
+│   ├── file_parser.cpp       # Logic to read and parse text files into line-wise structure<br>
+│   ├── file_parser.h         # Header for file parser; defines classes and functions used in parsing<br>
+│   ├── indexer.cpp           # Builds inverted index: maps words to file, line, and frequency<br>
+│   ├── indexer.h             # Header for indexer; defines data structures and methods for indexing<br>
+│   ├── search_engine.cpp     # Implements search logic, fuzzy matching, and result ranking<br>
+│   └── search_engine.h       # Header for search engine; declares fuzzy search and scoring functions<br>
+│<br>
+├── test_files/<br>
+│   ├── sample  1.txt         # Sample document used for search testing and indexing<br>
+│   ├── sample  2.txt         # Another sample file for broader keyword coverage<br>
 │   │   ...
-│   └── sample 25.txt         # Up to 25 documents supported; can add more for large-scale testing
-│
+│   └── sample 25.txt         # Up to 25 documents supported; can add more for large-scale testing<br>
+│<br>
 └── README.txt                # Project summary, usage instructions.
 
 ---
@@ -91,5 +91,6 @@ Line 4: Machine learning enables computers to learn from data.
 ## 📬 CONTACT ==>
 
 For questions or feedback, feel free to reach out!
+
 
 ---

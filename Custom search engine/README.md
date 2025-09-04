@@ -77,13 +77,13 @@ search_engine.exe
 
 ## ✨ SAMPLE OUTPUT ==>
 
-Enter search query (or type 'exit'): machne
+Enter search query (or type 'exit'): machne<br>
 
-Fuzzy word detected, replaced with "machine"
+Fuzzy word detected, replaced with "machine"<br>
 
-Ranked Results:
-[1] File: ../test_files/sample1.txt    ||    Line: 4    ||    Score: 0.200
-Line 4: Machine learning enables computers to learn from data.
+Ranked Results:<br>
+[1] File: ../test_files/sample1.txt    ||    Line: 4    ||    Score: 0.200<br>
+Line 4: Machine learning enables computers to learn from data.<br>
 🟢 Status: Index successfully created, search completed with fuzzy correction.
 
 ---
@@ -92,6 +92,4 @@ Line 4: Machine learning enables computers to learn from data.
 
 For questions or feedback, feel free to reach out!
 
-
 ---
-
